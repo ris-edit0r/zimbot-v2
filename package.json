@@ -1,5 +1,5 @@
 {
-  "name": "Zim-bot",
+  "name": "RSF-bot",
   "version": "1.0.0",
   "description": "Multi device wa bot created by Zim Bot Inc.",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Drips",
+  "author": "LEGEND",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
